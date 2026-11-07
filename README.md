@@ -1,15 +1,96 @@
-# 💫 About Me:
-Full-stack apps with Go, NestJS & React at Exto Project Solutions<br>Backend & full-stack projects (Go, Node, MongoDB)<br>System Design at scale 🏗️<br>System Design (HLD + LLD), DSA patterns & design patterns<br>Go, multi-tenant systems, performance optimization & event-driven architecture<br>I solve every problem as a story first — if it doesn't play like a movie in my head, I don't touch the code 🎬
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamalesh-kanna-732996225) 
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/azure%20devops-%230078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=KamaleshKannaL&theme=darcula&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=KamaleshKannaL&theme=darcula&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=KamaleshKannaL&theme=darcula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KamaleshKannaL&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:6E40C9&height=180&section=header&text=Kamalesh%20Kanna&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Engineer%20%E2%80%A2%20Go%20%E2%80%A2%20System%20Design&descAlignY=58&descSize=16" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=00ADD8&center=true&vCenter=true&width=600&lines=Building+multi-tenant+platforms+in+Go;Event-driven+systems+that+scale;HLD+%2B+LLD+%E2%80%A2+DSA+%E2%80%A2+Design+Patterns;Story+first%2C+code+second+%F0%9F%8E%AC" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kamalesh-kanna-732996225">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=KamaleshKannaL&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS" />
+</p>
+
 ---
-[![](https://komarev.com/ghpvc/?username=KamaleshKannaL&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 👋 About Me
+
+I'm a **Full-Stack Engineer** building production apps with **Go, NestJS & React**.
+I work where backend depth meets product: multi-tenant platforms, performance tuning, and event-driven architecture.
+
+| | |
+|---|---|
+| 🏗️ **System Design** | HLD + LLD for systems built to scale |
+| ⚡ **Backend** | Go, Node.js & NestJS: APIs, workers, queues |
+| 🧩 **Architecture** | Multi-tenant SaaS, event-driven design, caching |
+| 🚀 **Performance** | Profiling, query tuning, Mongo indexing, Redis |
+| 🧠 **Fundamentals** | DSA patterns & design patterns |
+
+> 🎬 *I solve every problem as a story first. If it doesn't play like a movie in my head, I don't touch the code.*
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,ts,js,html,css&perline=10" />
+</p>
+
+**Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express&perline=10" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" height="48" />
+</p>
+
+**Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,angular,tailwind&perline=10" />
+</p>
+
+**Data & Caching**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,redis&perline=10" />
+</p>
+
+**DevOps & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,azure&perline=10" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" height="48" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=KamaleshKannaL&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=KamaleshKannaL&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=KamaleshKannaL&theme=tokyonight&hide_border=true&background=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/6E40C9/KamaleshKannaL" alt="Contribution chart" />
+</p>
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=KamaleshKannaL&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,100:00ADD8&height=100&section=footer" />
+</p>
